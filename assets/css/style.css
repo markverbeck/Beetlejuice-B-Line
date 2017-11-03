@@ -1,0 +1,36 @@
+body{
+	background-image: url(pinstripe.jpg);
+	font-family: 'Permanent Marker', cursive;
+}
+
+#titleBox{
+	background-color: black;
+	margin-top: 2%;
+    margin-right: 4%;
+    margin-left: 2%;
+}
+
+#title{
+	color:white;
+	font-family: 'Luckiest Guy', cursive;
+	text-decoration: underline;
+	/*text-shadow: 4px 4px #c2db77;*/
+	
+}
+
+#underTitle{
+	color:white;
+	font-family: 'Luckiest Guy', cursive;
+	text-decoration: underline;
+	/*text-shadow: 3px 2px #c2db77;*/
+}
+
+#panel1{
+	color:white;
+	background-image: url("zig-zag-wool.png");
+}
+
+#panel2{
+	color:white;
+	background-image: url("zig-zag-wool.png");
+}
